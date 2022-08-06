@@ -1,0 +1,40 @@
+body {
+    font-family: "Courier New";
+}
+
+/******NAVBAR******/
+nav {
+    list-style-type: none;  
+    text-align: center;
+     
+}
+nav li{
+    display: inline;
+  
+}
+
+/*******LIST******/
+ul{
+    text-align: center;
+    
+}
+
+ol {
+    text-align: center;
+}
+
+li{
+    list-style-position: inside;
+}
+
+
+/********BASLIKLAR****/
+
+h1 {
+    color: crimson;
+}
+
+h2 {
+    color: tan;
+}
+
