@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+}
+.bg-gray {
+    width: 99%;
+    margin: auto;
+    background-color: gainsboro;
+}
+
+
+.btn {
+    border-radius: 5px;
+    background-color: silver;
+    margin: 5px auto;
+    padding: 5px;
+}
+
+.boxes {
+   float: left;
+   padding: 15px;
+   margin: 2px 5px;
+   height: 100px;
+   width: 30%;
+
+
+ 
+   
+}
+.box1 {
+    background-color: darkturquoise;
+    
+}
+.box2 {
+    background-color: mediumaquamarine;
+    
+}
+
+.box3 {
+    background-color: cadetblue;
+    
+}
