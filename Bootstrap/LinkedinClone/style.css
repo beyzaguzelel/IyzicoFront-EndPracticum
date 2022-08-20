@@ -1,7 +1,7 @@
 .navbarbg {
   height: 55px;
   background-color: white;
-  border-bottom: 1px solid;
+  
 }
 
 input.searche {
@@ -10,6 +10,7 @@ input.searche {
   background-color: #eef3f8;
   border: 0;
   padding-right: 80px;
+  text-indent: 20px;
 
 }
 
@@ -19,8 +20,7 @@ input.searche::placeholder {
   background-image: url(assets/search-solid.svg);
   background-repeat: no-repeat;
   background-size: 6%;
-  background-position: 10px;
-  
+  background-position: 10px; 
 }
 
 .body {
@@ -70,6 +70,7 @@ i:hover {
 input.content {
   border-radius: 40px;
   height: 45px;
+  text-indent: 30px;
 }
 input.content::placeholder {
   font-weight: bolder;
@@ -78,7 +79,7 @@ input.content::placeholder {
   background-image: url(assets/edit-regular.svg);
   background-repeat: no-repeat;
   background-size: 5%;
-  background-position: 10px;
+  background-position: 10px; 
 }
 
 div.card {
@@ -142,6 +143,7 @@ button.ref:hover {
   font-weight: bold;
   font-size: 14px;
   margin-left: 8px;
+  
 
 }
 
